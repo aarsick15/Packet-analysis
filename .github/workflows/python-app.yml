@@ -23,4 +23,6 @@ jobs:
       run: pip install pytest
 
     - name: Run tests
-      run: pytest
+      run: |
+        cd devops-foundation-project
+        python -m pytest

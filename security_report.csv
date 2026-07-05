@@ -1,0 +1,3 @@
+IP Address,Failed Attempts,Successful Attempts,Status
+192.168.1.50,5,0,SUSPICIOUS
+192.168.1.60,0,5,NORMAL
